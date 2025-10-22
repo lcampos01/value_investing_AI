@@ -9,7 +9,7 @@ import time
 RAW_DATA_DIR = 'data/raw'
 
 # Tickers de ejemplo. En un proyecto real, cargarías los 500 tickers desde un archivo.
-TICKERS_EJEMPLO = ['AAPL', 'MSFT', 'GOOGL', 'AMZN', 'JPM', 'XOM']
+TICKERS_EJEMPLO = ['MSFT', 'ORCL', 'CRM', 'CSCO', 'ADBE', 'NOW', 'AKAM', 'VRSN', 'CDNS', 'JPM', 'BAC', 'WFC', 'V', 'MA', 'BLK', 'GS', 'SPGI', 'MCO', 'C', 'JNJ', 'UNH', 'LLY', 'MRK', 'ABBV', 'PFE', 'TMO', 'ABT', 'DHR', 'GILD', 'PG', 'KO', 'PEP', 'WMT', 'COST', 'MDLZ', 'CL', 'KHC', 'GIS', 'CHD']
 
 # --- FUNCIONES CORE ---
 
